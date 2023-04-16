@@ -97,5 +97,5 @@ React Native'e nasıl başlayacağımızı öğrendiğimize göre, yarın ilk bi
 npx expo prebuild
 ```
 
-| [←  Giriş](./README.md) | [1. Gün • Proje Kurulumu](./DERS_1.md) | [2. Gün • Bileşenler →](./README.md) |
+| [←  Giriş](./README.md) | [1. Gün • Proje Kurulumu](./DERS_1.md) | [2. Gün • Bileşenler →](./DERS_2.md) |
 |-------------------------|---------------------------------------:|:------------------------------------:|
