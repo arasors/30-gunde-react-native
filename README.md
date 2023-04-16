@@ -155,3 +155,6 @@ Hangi seçeneği kullanacağınıza karar vermek, yepyeni bir mobil uygulama olu
 ```
 
 "Native Modules" hariç bu serideki her makale Expo'ya dayanacak çünkü her bölüm için yeni uygulamalar oluşturacağız. Hadi platforma nasıl başlayacağımızı keşfedelim!
+
+| [Giriş](./README.md) | [1. Gün • Proje Kurulumu →](./DERS_1.md) |
+|------------------------|-----------------------------------------:|

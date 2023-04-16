@@ -59,5 +59,5 @@ Performans ve kullanım biçimi açısından Function Componentleri ben daha ver
 
 React Native'de stil oluşturma hakkında daha fazla bilgi edinmeye hazır mısınız? Yarınki makalemizde bu konuyu daha ayrıntılı olarak inceleyeceğiz!
 
-| [← 1. Gün - Proje Kurulumu](./DERS_1.md) | [2. Gün - Bileşenler](./DERS_2.md) | [3. Gün - Stil Tanımlamaları →](./DERS_3.md) |
+| [← 1. Gün • Proje Kurulumu](./DERS_1.md) | [2. Gün • Bileşenler](./DERS_2.md) | [3. Gün • Stil Tanımlamaları →](./DERS_3.md) |
 |------------------------------------------|-----------------------------------:|:--------------------------------------------:|
