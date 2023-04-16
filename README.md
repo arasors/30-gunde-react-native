@@ -9,7 +9,30 @@ Bu seri size soft bir geçiş yapmanız için yardımcı olacak.
 
 Bu seride, en temelden başlıyoruz ve React Native'i kullanmaya başlamak için bilmeniz gereken her şeyi gözden geçiriyoruz. Eğer React Native'i öğrenmek istiyorsanız, burası başlamanız gereken yer!
 
-Youtube dersleri için [buraya](https://www.youtube.com/playlist?list=PL4M5dHdsqIrEBa_rtjyizl1Qhci7lX1kf) tıklayabilirsiniz.
+
+
+
+
+### Youtube dersleri
+1. [30 Günde React Native Serisi ](https://www.youtube.com/playlist?list=PL4M5dHdsqIrEBa_rtjyizl1Qhci7lX1kf)
+
+
+#### Eğer bu serinin yararlı olduğunu düşünüyorsan;
+GitHub'ta starlayıp, Youtube'da videoları beğenebilirsin.
+
+Soru ve isteklerini video altına yorum olarak bırakabilirsin.
+
+
+### Derslere geçmeden önce biraz bilgi isterseniz
+
+1. [React Native nedir?](#react-native-nedir)
+2. [Neden React Native?](#neden-react-native)
+3. [Ne öğreneceksiniz?](#başlarken)
+
+    3.1. [React Native CLI](#react-native-cli-1)
+    
+    3.2. [EXPO](#react-native-cli-1)
+
 
 ## React Native nedir?
 
