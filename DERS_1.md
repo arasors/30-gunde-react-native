@@ -1,5 +1,16 @@
-
 # 1. GÜN | Proje Kurulumu
+
+<!-- TOC -->
+* [1. GÜN | Proje Kurulumu](#1-gün--proje-kurulumu)
+  * [Expo ile yeni bir proje oluşturmak](#expo-ile-yeni-bir-proje-oluşturmak)
+      * [Expo CLI'yi global olarak kuralım:](#expo-cliyi-global-olarak-kuralım)
+      * [Projemizi oluşturalım:](#projemizi-oluşturalım)
+      * [Projeyi Başlatın:](#projeyi-başlatın)
+      * [Fiziksel bir Android cihazınız varsa:](#fiziksel-bir-android-cihazınız-varsa)
+      * [Fiziksel bir iOS cihazınız varsa:](#fiziksel-bir-ios-cihazınız-varsa)
+      * [Eğer bir simülatörde çalıştırmak istiyorsanız:](#eğer-bir-simülatörde-çalıştırmak-istiyorsanız)
+      * [Notlar](#notlar)
+<!-- TOC -->
 
 ## Expo ile yeni bir proje oluşturmak
 
@@ -85,3 +96,6 @@ React Native'e nasıl başlayacağımızı öğrendiğimize göre, yarın ilk bi
 ```terminal
 npx expo prebuild
 ```
+
+| [←  Giriş](./README.md) | [1. Gün - Proje Kurulumu](./DERS_1.md) | [2. Gün - Bileşenler →](./README.md) |
+|-------------------------|---------------------------------------:|:------------------------------------:|
