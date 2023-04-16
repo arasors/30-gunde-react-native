@@ -9,9 +9,10 @@ Bununla birlikte, CSS ve React Native stilleri arasında bazı önemli farklar v
 Fakat bunun için öğrenmemiz gereken özel bir dil ya da söz dizimi yok; tüm stillerimiz JavaScript kullanılarak tanımlanıyor.
 
 Bileşen stillerini tanımlamanın iki yaygın yolu vardır:
-* [Satır içi stiller]
-* [StyleSheets]
-  Bu iki yaklaşımı da inceleyerek başlayacağız.
+* Satır içi stiller
+* StyleSheets
+
+Bu iki yaklaşımı da inceleyerek başlayacağız.
 
 ### Satır içi stiller
 Yerleşik React Native bileşenlerinin çoğu (View, Text, Image, vb.) bir prop olarak bir stil nesnesini kabul eder. Bu şekilde stil oluşturma web için React'e benzer: anahtarlar camel-cased CSS özellik adlarıdır ve değerler tipik CSS değerleridir. Örneğin, bir View'in backgroundColor'ını style prop olarak { backgroundColor: "#0088FF" } geçirerek yapılandırabiliriz.
