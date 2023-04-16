@@ -14,13 +14,16 @@ Bu seride, en temelden başlıyoruz ve React Native'i kullanmaya başlamak için
 
 
 ### Youtube dersleri
-1. [30 Günde React Native Serisi ](https://www.youtube.com/playlist?list=PL4M5dHdsqIrEBa_rtjyizl1Qhci7lX1kf)
+* [30 Günde React Native Serisi ](https://www.youtube.com/playlist?list=PL4M5dHdsqIrEBa_rtjyizl1Qhci7lX1kf)
 
 
-#### Eğer bu serinin yararlı olduğunu düşünüyorsan;
-GitHub'ta starlayıp, Youtube'da videoları beğenebilirsin.
+#### Eğer bu serinin yararlı olduğunu düşünüyorsanız;
+GitHub'ta starlayıp, Youtube'da videoları beğenebilirsiniz. 
+Ayrıca soru ve isteklerinizi video altına yorum olarak bırakabilirsiniz.
 
-Soru ve isteklerini video altına yorum olarak bırakabilirsin.
+
+### Dersler
+* [1. GÜN | Proje Kurulumu](./DERS_1.md)
 
 
 ### Derslere geçmeden önce biraz bilgi isterseniz
